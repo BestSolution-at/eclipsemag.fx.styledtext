@@ -1,0 +1,57 @@
+.styled-text-area .dart.dart_default {
+	-fx-fill: rgb(0, 0, 0);
+}
+
+.styled-text-area .dart.dart_operator {
+	-fx-fill: rgb(0, 0, 0);
+}
+
+.styled-text-area .dart.dart_bracket {
+	-fx-fill: rgb(0, 0, 0);
+}
+
+.styled-text-area .dart.dart_keyword {
+	-fx-fill: rgb(127, 0, 85);
+	-fx-font-weight: bold;
+}
+
+.styled-text-area .dart.dart_keyword_1 {
+	-fx-fill: rgb(127, 0, 85);
+	-fx-font-weight: bold;
+}
+
+.styled-text-area .dart.dart_keyword_2 {
+	-fx-fill: rgb(127, 0, 85);
+	-fx-font-weight: bold;
+}
+
+.styled-text-area .dart.dart_single_line_comment {
+	-fx-fill: rgb(63, 127, 95);
+}
+
+.styled-text-area .dart.dart_multi_line_comment {
+	-fx-fill: rgb(63, 127, 95);
+}
+
+.styled-text-area .dart.dart_string {
+	-fx-fill: rgb(42, 0, 255);
+}
+
+.styled-text-area .dart.dart_string_inter {
+	-fx-fill: rgb(42, 0, 255);
+	-fx-font-weight: bold;
+}
+
+.styled-text-area .dart.dart_builtin_types {
+	-fx-fill: #74a567;
+	-fx-font-weight: bold;
+}
+
+.styled-text-area .dart.dart_doc {
+	-fx-fill: rgb(63, 95, 191);
+}
+
+.styled-text-area .dart.dart_doc_reference {
+	-fx-fill: rgb(63, 95, 191);
+	-fx-font-weight: bold;
+}
